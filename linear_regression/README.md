@@ -67,7 +67,7 @@ GIF-демо лежит в файле `demo.gif`.
 
 ## Ссылка на деплой
 
-
+https://elegantmlintroinabd-ajqwp9we3dmwozd82rffcw.streamlit.app
 
 ## Как запустить локально
 
